@@ -1,5 +1,7 @@
 # Scrapping Mercado Livre
-### O programa extrai todas as informações sobre imóveis à venda no site Mercado Livre.
+
+### O programa utiliza a biblioteca BeautifulSoup para extrair todas as informações sobre imóveis à venda no site Mercado Livre.
+### O repositório contém um .py e um .csv. O arquivo .csv é correspondente ao data frame extraído do scrapping realizado.
 
 #### Obs 1: Para esse caso, peguei o bairro da Barra da Tijuca no Rio de Janeiro e coloquei o número total de páginas o máximo que havia (olhando o número exibido na tela).
 
